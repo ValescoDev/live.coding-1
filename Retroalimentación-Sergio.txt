@@ -1,0 +1,7 @@
+No se alcanzó a finalizar los ejercicios.
+Recomendaciones:
+*Trabajar en lectura de errores
+*Practicar funciones en JS
+
+Extensión para VSC:
+Code Runner   (.run)
